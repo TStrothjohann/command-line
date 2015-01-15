@@ -1,0 +1,1 @@
+wc = word count. You can use it on files getiting the character count and more. using wc with the switch -l counts the lines.
