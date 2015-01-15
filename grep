@@ -1,0 +1,1 @@
+grep is used to choose defined Elements of input. For example take out all lines starting with T. You can pipe (using |) output from other commands to grep. For example env | grep ^T -print will print out only the env vars that start with T.
