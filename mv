@@ -1,0 +1,2 @@
+mv xyz.txt ~/Projects/dump/xyz2.txt
+moves xyz.txt to ~/Projects/dump and renames it to xyz2.txt. The renaming is optional. You can also use mv to rename a file within the same directory.
